@@ -1,6 +1,6 @@
 
 
-# 💬 Multilingual Financial Literacy Chatbot (Hong Kong)
+# 💬 Multilingual Financial Literacy Chatbot 
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG) chatbot** for financial literacy, designed to answer questions in **English, Mandarin, and Cantonese**. It uses **HuggingFace Transformers**, **SentenceTransformers**, **FAISS**, and **Gradio** to provide recruiter‑friendly, interactive demos.
 
