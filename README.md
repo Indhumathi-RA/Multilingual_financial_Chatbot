@@ -20,6 +20,4 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG) chatbot** for
 - [HuggingFace Transformers](ca://s?q=Transformers_pipeline_for_QA) → LLMs (mT5 / mBART‑50)
 - [Gradio](ca://s?q=Gradio_UI_for_chatbots) → web interface
 
----
 
-## 📂 Project Structure
